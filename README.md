@@ -13,8 +13,8 @@ then add `"axlmc.cachix.org-1:dmsRJqFQqLMfvRveerHV3DxDCW1wq1N+TX1+dryYWZU="` to 
 | Ref | Commit | x86_64-linux | aarch64-linux |
 | --- | --- | :---: | :---: |
 | `v1.9.8` | [`c77ce76c19224df6cfe4cc2c1b362e07db22a0fd`](https://github.com/Mystic-Stars/Axolotl/commit/c77ce76c19224df6cfe4cc2c1b362e07db22a0fd) | ✅ | ✅ |
-| `v1.9.8-beta.2` | [`d1d5cc92f38db7d51c45c683945b619c16df5286`](https://github.com/Mystic-Stars/Axolotl/commit/d1d5cc92f38db7d51c45c683945b619c16df5286) | ✅ | ✅ |
-| `main` | [`27b14889712ec977c83d689d6ebca55228577f2c`](https://github.com/Mystic-Stars/Axolotl/commit/27b14889712ec977c83d689d6ebca55228577f2c) | ⏳ | ⏳ |
+| `v1.10.0-beta.1` | [`27b14889712ec977c83d689d6ebca55228577f2c`](https://github.com/Mystic-Stars/Axolotl/commit/27b14889712ec977c83d689d6ebca55228577f2c) | ✅ | ✅ |
+| `main` | [`fabd6c51787fc988e13878c296419c982c54bccf`](https://github.com/Mystic-Stars/Axolotl/commit/fabd6c51787fc988e13878c296419c982c54bccf) | ✅ | ✅ |
 
 <!-- END CACHED-COMMITS -->
 
