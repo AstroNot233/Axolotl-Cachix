@@ -14,7 +14,7 @@ then add `"axlmc.cachix.org-1:dmsRJqFQqLMfvRveerHV3DxDCW1wq1N+TX1+dryYWZU="` to 
 | --- | --- | :---: | :---: |
 | `v1.9.9` | [`b2f81391e584aebf3ef07e8db2fc9cdad2ffb4c7`](https://github.com/Mystic-Stars/Axolotl/commit/b2f81391e584aebf3ef07e8db2fc9cdad2ffb4c7) | ✅ | ✅ |
 | `v1.10.0-beta.4` | [`f844f4577d5291c83146624e95b5397cd3a4294d`](https://github.com/Mystic-Stars/Axolotl/commit/f844f4577d5291c83146624e95b5397cd3a4294d) | ✅ | ✅ |
-| `main` | [`61165942968c8e8d8f290f0815176e4ab06aa9a3`](https://github.com/Mystic-Stars/Axolotl/commit/61165942968c8e8d8f290f0815176e4ab06aa9a3) | ✅ | ✅ |
+| `main` | [`fc6fa909c4903686ac78a3743b040de48262e4b3`](https://github.com/Mystic-Stars/Axolotl/commit/fc6fa909c4903686ac78a3743b040de48262e4b3) | ✅ | ✅ |
 
 <!-- END CACHED-COMMITS -->
 
