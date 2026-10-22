@@ -1,5 +1,5 @@
 {
-  "axolotl_repo": "https://github.com/Mystic-Stars/Axolotl",
+  "axolotl_repo": "https://github.com/Axolotl-Launcher/Axolotl",
   "cache_store": "https://axlmc.cachix.org",
   "cachix_name": "axlmc",
   "version_fmt": "[0-9]+\\.[0-9]+\\.[0-9]+(-beta\\.[0-9]+)?",
