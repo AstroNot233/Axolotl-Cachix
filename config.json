@@ -1,9 +1,9 @@
 {
-  "axolotl_repo": "https://github.com/Axolotl-Launcher/Axolotl",
-  "cache_store": "https://axlmc.cachix.org",
-  "cachix_name": "axlmc",
+  "axolotl_repo": "https://github.com/AstroNot233/Axolotl",
+  "cache_store": "https://axlmc-astro.cachix.org",
+  "cachix_name": "axlmc-astro",
   "version_fmt": "[0-9]+\\.[0-9]+\\.[0-9]+(-beta\\.[0-9]+)?",
   "default_refs": [
-    "main"
+    "assign-cfapikey"
   ]
 }
