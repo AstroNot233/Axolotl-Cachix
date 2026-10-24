@@ -4,6 +4,5 @@
   "cachix_name": "axlmc-astro",
   "version_fmt": "[0-9]+\\.[0-9]+\\.[0-9]+(-beta\\.[0-9]+)?",
   "default_refs": [
-    "assign-cfapikey"
   ]
 }
