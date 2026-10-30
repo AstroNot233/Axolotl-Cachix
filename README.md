@@ -14,7 +14,7 @@ then add `"axlmc.cachix.org-1:dmsRJqFQqLMfvRveerHV3DxDCW1wq1N+TX1+dryYWZU="` to 
 | --- | --- | :---: | :---: |
 | `v1.9.9` | — | — | — |
 | `v1.10.0-beta.4` | — | — | — |
-| `main` | [`07820c1e266a7cdaeb053e5b3d418aaa5ce414a5`](https://github.com/AstroNot233/Axolotl/commit/07820c1e266a7cdaeb053e5b3d418aaa5ce414a5) | ✅ | ✅ |
+| `main` | [`f459b94db2ac806180bb1dc6d5fd95c1456b0f30`](https://github.com/AstroNot233/Axolotl/commit/f459b94db2ac806180bb1dc6d5fd95c1456b0f30) | ⏳ | ⏳ |
 | `assign-cfapikey` | — | — | — |
 
 <!-- END CACHED-COMMITS -->
